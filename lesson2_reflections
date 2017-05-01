@@ -1,0 +1,6 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+-It turns the folder into a git repository, does not make any initial commit. Need to do it to use git version control on files inside this directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-it is a middle area where you add only the files you wish to commit. It adds value because it helps seperate out the commits/changes in a more controlled way.
